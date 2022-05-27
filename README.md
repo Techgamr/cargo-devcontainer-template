@@ -8,4 +8,4 @@ Also includes a simple Rust GitHub Actions setup and a Dependabot setup for CI a
 
 ## Using this template
 
-Simple click 'use this template' at the top of the repo page, and you can then create a Codespace on your branch (if you have access), or clone locally in a Devcontainer.
+Simple click 'use this template' at the top of the repo page, and you can then create a Codespace on your branch (if you have access to Codespaces), or clone locally in a Devcontainer.
